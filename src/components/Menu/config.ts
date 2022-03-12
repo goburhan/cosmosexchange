@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: '/',
+    href: 'https://affectionate-bassi-919883.netlify.app/',
   },
   {
     label: 'Trade',
@@ -26,7 +26,7 @@ const config: MenuEntry[] = [
     items:[
       {
         label:"Cosmic Farms",
-        href: '/farms'
+        href: 'https://affectionate-bassi-919883.netlify.app/pools'
       },
       // {
       //   label: 'Cake Farm',
@@ -40,14 +40,14 @@ const config: MenuEntry[] = [
   },
 
   {
-    label: 'Pools',
+    label: 'Cosmic Farm',
     icon: 'PoolIcon',
-    href: '/pools',
+    href: 'https://affectionate-bassi-919883.netlify.app/pools',
   },
   {
     label: 'Clusters',
     icon: 'PoolIcon',
-    href: '/clusters',
+    href: 'https://affectionate-bassi-919883.netlify.app/clusters',
   },
   //  {
   //    label: 'Call Option (1,1)',
@@ -57,7 +57,7 @@ const config: MenuEntry[] = [
   {
     label: 'IFO',
     icon: 'IfoIcon',
-    href: '/ifo',
+    href: 'https://affectionate-bassi-919883.netlify.app/ifo',
   },
 
   // {
