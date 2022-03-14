@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://affectionate-bassi-919883.netlify.app/',
+    href: 'https://cosmosfinal.vercel.app/',
   },
   {
     label: 'Trade',
@@ -26,7 +26,7 @@ const config: MenuEntry[] = [
     items:[
       {
         label:"Cosmic Farms",
-        href: 'https://affectionate-bassi-919883.netlify.app/pools'
+        href: 'https://cosmosfinal.vercel.app/farms'
       },
       // {
       //   label: 'Cake Farm',
@@ -40,14 +40,14 @@ const config: MenuEntry[] = [
   },
 
   {
-    label: 'Cosmic Farm',
+    label: 'Delegate farm',
     icon: 'PoolIcon',
-    href: 'https://affectionate-bassi-919883.netlify.app/pools',
+    href: 'https://cosmosfinal.vercel.app/pools',
   },
   {
     label: 'Clusters',
     icon: 'PoolIcon',
-    href: 'https://affectionate-bassi-919883.netlify.app/clusters',
+    href: 'https://cosmosfinal.vercel.app/clusters',
   },
   //  {
   //    label: 'Call Option (1,1)',
